@@ -4,4 +4,4 @@ Aquí se encuentra la documentación de referencia de las funciones implementada
 
 ## Funciones
 
-::: Proyect.ProyectoFinal
+::: Proyect.Proyect
